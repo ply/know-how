@@ -14,4 +14,7 @@
  - [Avoid `eqnarray`!](https://tug.org/pracjourn/2012-1/madsen/madsen.pdf)
  
 ## misc
+ - `classicthesis`
+    > an el­e­gant lay­out de­signed in homage to Bringhurst’s “The Ele­ments of Ty­po­graphic Style”
+ - `beamer` or `lecturer` - presentations
  - `latexdiff` - typeset document with marked differences between LaTeX files; supports version control systems
