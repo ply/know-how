@@ -1,5 +1,6 @@
-# How to research and write a thesis? - notes
+# How to study, research and write a thesis? - notes
 
+- [How to Read a Book by Paul N. Edwards](https://pne.people.si.umich.edu/PDF/howtoread.pdf) (pdf)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr)](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y) (video)
 - [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA) (video)
 - [How to Write a Technical Paper: Structure and Style of the Epitome of your Research](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) (article)
