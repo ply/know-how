@@ -42,6 +42,7 @@
 - [The Emotional Impact Rooms Have on Music](https://www.youtube.com/watch?v=hspMVkKOFLg) (video with examples)
 - [How audiobooks are recorded (Vox)](https://www.youtube.com/watch?v=KcrAkPNB8jc)
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
+- [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
 
 ## Software
 
