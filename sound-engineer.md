@@ -43,6 +43,7 @@
 - [How audiobooks are recorded (Vox)](https://www.youtube.com/watch?v=KcrAkPNB8jc)
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
 - [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
+- [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
 
 ## Software
 
