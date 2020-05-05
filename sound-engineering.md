@@ -1,4 +1,10 @@
-# How to sound-engineer?
+# Sound engineering
+
+## watchlist
+
+- [Sound Design Live](sounddesignlive.com)
+- [earfluff and eyecandy](https://www.tonmeister.ca/wordpress/)
+- [Working Class Audio](https://www.workingclassaudio.com/) podcast
 
 ## Sound design
 

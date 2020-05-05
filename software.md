@@ -10,8 +10,13 @@
  - music: [foobar2000](https://www.foobar2000.org)
  - saving complete web pages as a single HTML file: [monolith](https://github.com/Y2Z/monolith/)
 
+## Android
+ - text editor: [Markor](https://gsantner.net/project/markor.html), supports [todo.txt](http://todotxt.org/) & markdown
+
 ## Windows
 
+ - classic start menu (w10): [Classic Shell](http://www.classicshell.net/)
+ - manage privacy settings (w10): [debotnet](https://www.mirinsoft.com/debotnet)
  - scanning: [NAPS2](https://www.naps2.com/)
  - CD/DVD burning: [ImgBurn](http://imgburn.com/) (haven't been using it for years...)
 
