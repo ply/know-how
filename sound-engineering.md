@@ -50,10 +50,10 @@
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
 - [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
 - [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
+- [Proper microphone hygiene (by DPA)](https://www.dpamicrophones.com/mic-university/proper-mic-hygiene)
 
 ## Software
 
-I use [REAPER](http://reaper.fm) with [SWS / S&M extension](http://www.sws-extension.org/) and [ReaPack](https://reapack.com/). It has wonderful scripting capability, which makes these tools possible:
- - [Source/Destination editing actions](https://forum.cockos.com/showthread.php?t=116213)
+I use [REAPER](http://reaper.fm) with [SWS / S&M extension](http://www.sws-extension.org/) and [ReaPack](https://reapack.com/) repository of scripts. [I've written my own as well](https://github.com/ply/ReaScripts/). Some of them allow [Source/Destination editing](https://forum.cockos.com/showthread.php?t=232697)
 
 I also try to be familiar with [Pro Tools](https://www.avid.com/pro-tools), despite I don't use it on daily basis. I sometimes check [these](http://www.keyxl.com/aaac31a/263/DigiDesign-ProTools-7-keyboard-shortcuts.htm) [two](http://www.protoolskeyboardshortcuts.com/pro-tools-2018-keyboard-shortcuts/) lists of keyboard shortcuts. I've heard it's possible to use [4-point editing](https://www.soundonsound.com/techniques/unlink-timeline-edit-selections) technique too.
