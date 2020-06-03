@@ -10,6 +10,16 @@
  - music: [foobar2000](https://www.foobar2000.org)
  - saving complete web pages as a single HTML file: [monolith](https://github.com/Y2Z/monolith/)
 
+### [Firefox](https://www.mozilla.org/pl/firefox/) extensions
+
+- Cookie AutoDelete
+- Decentraleyes
+- HTTPS Everywhere
+- Privacy Badger
+- Firefox Multi-Account Container
+- Facebook Container
+- KeePassXC-Browser
+
 ## Android
  - text editor: [Markor](https://gsantner.net/project/markor.html), supports [todo.txt](http://todotxt.org/) & markdown
 
