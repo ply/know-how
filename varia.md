@@ -8,3 +8,5 @@ Not sure yet where this list goes, maybe some lifehacks and global issues.
 
 - [How To Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY) -
   great talk on giving talks
+
+- [Evidence Based Scheduling (article by Joel Spolsky)](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)
