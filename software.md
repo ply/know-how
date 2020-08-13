@@ -6,7 +6,7 @@
  - markdown editor: [Typora](https://typora.io/)
  - backups: [restic](https://restic.net/)
  - synchronizing data between devices: [Syncthing](https://syncthing.net/)
- - archiving on external HDDs: [git-annex](https://git-annex.branchable.com/)
+ - archiving on external HDDs: [git-annex](https://git-annex.branchable.com/) (on Windows: with Fedora on VirtualBox VM - WSL wasn't reliable enough)
  - music: [foobar2000](https://www.foobar2000.org)
  - saving complete web pages as a single HTML file: [monolith](https://github.com/Y2Z/monolith/)
 
