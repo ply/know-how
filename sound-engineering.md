@@ -29,6 +29,7 @@
 ## Music recording
 
 - [Richard King: How To Record Acoustic Ensembles](https://www.soundonsound.com/people/richard-king-how-record-acoustic-ensembles) article & and video [Inside the Goat Rodeo Sessions](https://www.youtube.com/watch?v=VeE4YCtoj58)
+- [MARRS - Microphone Array Recording and Reproduction Simulator](https://marrsweb.hud.ac.uk/)
 - [Schoeps Image Assistant](http://ima.schoeps.de/)
 - [microphone-data.com](http://microphone-data.com/)
 - [hauptmikrofon.de - Wittek Publications](http://www.hauptmikrofon.de/home-e/helmut-wittek/publications)
