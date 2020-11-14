@@ -45,13 +45,17 @@
 - [ITU-R BS.1770: Algorithms to measure audio programme loudness and true-peak audio level](https://www.itu.int/rec/R-REC-BS.1770/en)
 - [dpMeter 3](https://www.tb-software.com/TBProAudio/dpmeter3.html)
 
+## Mixing
+
+- [Mix with Daniel Dettwiler (playlist)](https://www.youtube.com/playlist?list=PLNeANawMzMGD0pW-8-o_mLCH6t_dDYwCa)
+- [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
+- [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
+
 ## Various
 
 - [The Emotional Impact Rooms Have on Music](https://www.youtube.com/watch?v=hspMVkKOFLg) (video with examples)
 - [How audiobooks are recorded (Vox)](https://www.youtube.com/watch?v=KcrAkPNB8jc)
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
-- [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
-- [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
 - [Proper microphone hygiene (by DPA)](https://www.dpamicrophones.com/mic-university/proper-mic-hygiene)
 
 ## Software
