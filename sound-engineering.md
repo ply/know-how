@@ -12,7 +12,7 @@
 - [The Magic of Making Sound](https://www.youtube.com/watch?v=UO3N_PRIgX0) (Foley)
 - [The Beautiful Lies of Sound Design | Tasos Fratzolas | TEDxAthens](https://www.youtube.com/watch?v=jDy5j0c6TrU)
 - [The Guide To Sound Effects](https://www.epicsound.com/sfx/)
-- [An Introduction to Sound Effects Mastering/](https://www.creativefieldrecording.com/2012/09/05/an-introduction-to-sound-effects-mastering/) (file management & editing)
+- [An Introduction to Sound Effects Mastering](https://www.creativefieldrecording.com/2012/09/05/an-introduction-to-sound-effects-mastering/) (file management & editing)
 - [The Sound Effect Bible](https://www.amazon.co.uk/Sound-Effects-Bible-Create-Hollywood/dp/1932907483) (book)
 - [Try The McGurk Effect! - Horizon: Is Seeing Believing? - BBC Two](https://www.youtube.com/watch?v=G-lN8vWm3m0)
 - [Wall-E Animation Foley and Sound Design](https://www.youtube.com/watch?v=0IPxIvbc_cs)
@@ -47,12 +47,13 @@
 
 ## Mixing
 
-- [Mix with Daniel Dettwiler (playlist)](https://www.youtube.com/playlist?list=PLNeANawMzMGD0pW-8-o_mLCH6t_dDYwCa)
+- [Mix with Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGD0pW-8-o_mLCH6t_dDYwCa) (YouTube playlist)
 - [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
 - [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
 
 ## Various
 
+- [Home page of David Griesinger](http://www.davidgriesinger.com/) - former chief scientist of Lexicon
 - [The Emotional Impact Rooms Have on Music](https://www.youtube.com/watch?v=hspMVkKOFLg) (video with examples)
 - [How audiobooks are recorded (Vox)](https://www.youtube.com/watch?v=KcrAkPNB8jc)
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
