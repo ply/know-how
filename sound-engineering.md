@@ -50,6 +50,7 @@
 - [Mix with Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGD0pW-8-o_mLCH6t_dDYwCa) (YouTube playlist)
 - [How to create Space and Depth in a mix & how to get lush and spacious reverbs by Daniel Dettwiler](https://www.youtube.com/playlist?list=PLNeANawMzMGB6cAM0xdWkxYRM0mis1Mkl)
 - [Mixing Masterclass with Bob Power [MixCon 2017]](https://www.youtube.com/watch?v=cHxMsawJsTc)
+- [Pensado's Place #22 - Jack Joseph Puig](https://www.youtube.com/watch?v=H-Sw0eSnp8A)
 
 ## Various
 
@@ -58,6 +59,14 @@
 - [How audiobooks are recorded (Vox)](https://www.youtube.com/watch?v=KcrAkPNB8jc)
 - [Working Class Audio podcast](http://www.workingclassaudio.com/)
 - [Proper microphone hygiene (by DPA)](https://www.dpamicrophones.com/mic-university/proper-mic-hygiene)
+- Turntables and Vinyl - Geoff Martin's series of posts:: 
+  [1](https://www.tonmeister.ca/wordpress/2020/12/12/turntables-and-vinyl-part-1/),
+  [2](https://www.tonmeister.ca/wordpress/2020/12/12/turntables-and-vinyl-part-2/),
+  [3](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-3/),
+  [4](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-4/),
+  [5](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-5/),
+  [6](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-6/),
+  [7](https://www.tonmeister.ca/wordpress/2020/12/15/turntables-and-vinyl-part-7/)
 
 ## Software
 
