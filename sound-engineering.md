@@ -66,7 +66,9 @@
   [4](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-4/),
   [5](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-5/),
   [6](https://www.tonmeister.ca/wordpress/2020/12/13/turntables-and-vinyl-part-6/),
-  [7](https://www.tonmeister.ca/wordpress/2020/12/15/turntables-and-vinyl-part-7/)
+  [7](https://www.tonmeister.ca/wordpress/2020/12/15/turntables-and-vinyl-part-7/),
+  [8](https://www.tonmeister.ca/wordpress/2021/03/04/turntables-and-vinyl-part-8/),
+  [9](https://www.tonmeister.ca/wordpress/2021/03/05/turntables-and-vinyl-part-9/)
 
 ## Software
 
