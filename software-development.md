@@ -6,6 +6,7 @@
   - use short comments within the code
   - external documentation for public fibrary interfaces only
   - [SGI STL Documentation](https://www.boost.org/sgi/stl/) as a good old example
+- [Learn to use email with git!](https://git-send-email.io/)
 
 ## C++
 
