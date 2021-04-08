@@ -37,6 +37,8 @@
 - [Microphone Choice: Large or Small, Single or Double?](http://www.aes.org/e-lib/browse.cfm?elib=15421)
 - [Glenn Gould Records Scriabin Desir](https://www.facebook.com/dmajortv/videos/1971412083122417/) (it's actually a footage from mixing session)
 - [Mike Senior's response to Q. How should I compress a classical recording?](https://www.soundonsound.com/sound-advice/q-how-should-i-compress-classical-recording)
+- [Mixing classical music live with Carsten Kümmel](https://www.mothergrid.de/fachwissen/motherclass-1-mixing-classical-music-live-with-carsten-kuemmel/) ([youtube playlist](https://www.youtube.com/watch?v=UT-AZAf997c&list=PLVvj5hGX6tm3OXKbcsdJ7a6lkQnghzArD&index=2))
+  - uses only high-shelf filters on one channel of stereo for panning
 
 ## Level measurement - EBU R-128 (LUFS/LKFS)
 
