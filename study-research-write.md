@@ -14,4 +14,5 @@
   2. administration
   3. think about your career
   4. don't cancel meetings with your supervisor
-  5. take notes! 
+  5. take notes!
+- Austin Z. Henley's [Lessons from my PhD](https://austinhenley.com/blog/lessonsfrommyphd.html)

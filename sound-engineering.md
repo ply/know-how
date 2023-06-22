@@ -34,6 +34,7 @@
 - [microphone-data.com](http://microphone-data.com/)
 - [hauptmikrofon.de - Wittek Publications](http://www.hauptmikrofon.de/home-e/helmut-wittek/publications)
 - [Unique Directional Properties of Dual-Diaphragm Microphones](http://cdn.shure.com/publication/upload/340/pdf_ea_dual_diaphragm_mics.pdf)
+- [Kazuya Nagae's website - research on microphone arrangement](http://kazuyanagae.com/)
 - [Microphone Choice: Large or Small, Single or Double?](http://www.aes.org/e-lib/browse.cfm?elib=15421)
 - [Glenn Gould Records Scriabin Desir](https://www.facebook.com/dmajortv/videos/1971412083122417/) (it's actually a footage from mixing session)
 - [Mike Senior's response to Q. How should I compress a classical recording?](https://www.soundonsound.com/sound-advice/q-how-should-i-compress-classical-recording)

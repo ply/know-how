@@ -2,15 +2,14 @@
 
 ## cross-platform
 
- - long-term TODO's: [Org mode](https://orgmode.org/) in [Emacs](https://www.gnu.org/software/emacs/) & [Orgzly](http://www.orgzly.com/) on Android
- - everyday TODO's: [todotxt.net](https://benrhughes.github.io/todotxt.net/)
- - markdown editor: [Typora](https://typora.io/)
  - backups: [restic](https://restic.net/)
  - synchronizing data between devices: [Syncthing](https://syncthing.net/)
  - contacts and calendars: [Radicale](https://radicale.org/) Cal- & CardDAV server with [Cardbook](https://addons.thunderbird.net/en-US/thunderbird/addon/cardbook/) Thunderbird plugin
  - archiving on external HDDs: [git-annex](https://git-annex.branchable.com/) (on Windows: with Fedora on VirtualBox VM - WSL wasn't reliable enough)
  - music: [foobar2000](https://www.foobar2000.org)
  - saving complete web pages as a single HTML file: [monolith](https://github.com/Y2Z/monolith/)
+
+I also used to handle long-term TODO's with [Org mode](https://orgmode.org/) in [Emacs](https://www.gnu.org/software/emacs/) & [Orgzly](http://www.orgzly.com/) on Android, and everyday ones with [todotxt.net](https://benrhughes.github.io/todotxt.net/), but currently I just have a long plaintext file.
 
 ### [Firefox](https://www.mozilla.org/pl/firefox/) extensions
 
